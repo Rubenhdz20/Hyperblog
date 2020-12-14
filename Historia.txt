@@ -1,6 +1,3 @@
 Ruben tiene 24 a;os y nacio en Mexico.
 Deseando vivir por el Mundo. 
-Hoy hablaremos de su historia.
-La cual esta llena de momentos vividos.
-Nose porque no se agrega el nuevo nombre 
-Es algo raro de aprender 
+Aprendiendo aleman y programando para poder entender una nueva area del Mundo
