@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    color: red;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -30,6 +30,7 @@ body {
     padding: 0;
     text-align: left;
     border: 1px solid black;
+    background: rgba(255, 196, 0, 0.568);
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
@@ -38,6 +39,11 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#container h2 {
+    font-size: 15px;
+    color: blue;
 }
 
 #post {
