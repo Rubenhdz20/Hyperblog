@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Ruben tiene 24 a;os y nacio en Mexico.
 Deseando vivir por el Mundo. 
+Aprendiendo aleman y programando para poder entender una nueva area del Mundo
+=======
+
+
+Ruben tiene 22 a;os y nacio en Mexico 
 Hoy hablaremos de su historia.
-La cual esta llena de momentos vividos.
-Nose porque no se agrega el nuevo nombre 
-Es algo raro de aprender 
+Ma;ana saldra a aventurarse por el mar del Pacifico. 
+Y empezo a trabajar en los hoteles para poder pagarse  un viaje.
+>>>>>>> cabecera
